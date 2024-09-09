@@ -3,6 +3,7 @@ Project on online auction system
 The Online Auction System is a full-stack web application that allows users to participate in auctions, bid on items, and buy or sell products in real-time. It provides a platform for both buyers and sellers to engage in a dynamic marketplace, with functionalities to manage user authentication, product listings, bidding processes, and final sales. The system operates on the MERN stack (MongoDB, Express.js, React.js, and Node.js), utilizing MongoDB for storing data and providing a RESTful API for interaction between the client and server.
 
 Key Features
+<br>
 1.User Authentication:
 Login/Signup: Users must register and authenticate themselves to access the auction platform. User authentication is managed using JWT tokens and session cookies for secure login.
 Role-Based Access: The system distinguishes between buyers and sellers, with different privileges based on roles.
